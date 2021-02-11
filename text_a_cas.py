@@ -48,9 +48,6 @@ t.pu()
 t.goto(-120, -80)
 t.pd()
 
-
-jmena.sort()
-
 t.up()
 t.write("Zdraví:", font=("Arial", 14, "normal"))
 #t.fd(80)
