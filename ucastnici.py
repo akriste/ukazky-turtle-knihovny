@@ -6,4 +6,5 @@ jmena = ["ada",
 "vašek",
 "klárka"
 "lucka"
-"cinkim"]
+"cinkim",
+"lenkak"]
